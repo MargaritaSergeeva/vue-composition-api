@@ -1,5 +1,8 @@
 # vue-composition-api
 
+## Deploy
+See https://vue-pet-freelance-ex.web.app
+
 ## Project setup
 ```
 npm install
